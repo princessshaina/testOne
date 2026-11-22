@@ -5,4 +5,8 @@ int main(){
     cout << "hahahahahahahahahaa" << endl;
     cout << "hehehehehheeheheheh" << endl;
     cout << "huahuahauauahauauah" << endl;
+//REPLIED
+    cout << "SHAI:" << endl;
+
+    cout << "Yezzz, Bakit??" << endl; 
 }
